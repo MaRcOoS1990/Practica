@@ -32,4 +32,6 @@ git status - отображает состояние рабочего катал
 [a link](https://github.com)
 
 ## 2.Ветки
+* git branch - выводит список веток
 * git branch branch_name - создает новую ветку с именем branch_name
+
