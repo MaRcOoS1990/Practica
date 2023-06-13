@@ -32,3 +32,4 @@ git status - отображает состояние рабочего катал
 [a link](https://github.com)
 
 ## 2.Ветки
+* git branch - выводит список веток
